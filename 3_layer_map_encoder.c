@@ -42,7 +42,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     LT(_LOWER, KC_ESC), KC_A, KC_S, KC_D, KC_F, KC_G,  KC_H, KC_J, KC_K, KC_L,            NO_AE, NO_OSLH, KC_ENT,
     KC_LCTL,            KC_Z, KC_X, KC_C, KC_V, KC_SPC,KC_B, KC_N, KC_M, TD(TD_DOT_COLN), RSFT_T(KC_COMM)
 ),
-
 /* Lower - Numbers and some symbols
  * ,------------------------------------------------------------------------------------------.
  * |  DEL |  CAD |   "  |   \  |   /  |   (  |   )  |   7  |   8  |   9  |   !  |  ?   |      |
